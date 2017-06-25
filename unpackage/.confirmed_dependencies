@@ -1,0 +1,157 @@
+{
+  "lunbo.html": {
+    "resources": [
+      "img/huanying/5_03.jpg",
+      "img/huanying/4_03.jpg",
+      "img/huanying/3_03.jpg",
+      "img/huanying/5_11.jpg",
+      "img/huanying/4_11.jpg",
+      "img/huanying/3_07.jpg",
+      "img/huanying/6_11.jpg",
+      "img/huanying/3_02.jpg",
+      "img/huanying/6_03.jpg",
+      "img/huanying/4_07.jpg",
+      "img/huanying/5_07.jpg",
+      "img/huanying/6_07.jpg",
+      "img/huanying/4_15.jpg",
+      "logo.html"
+    ],
+    "refer": [
+      "logo.html"
+    ]
+  },
+  "rochang.html": {
+    "resources": [
+      "js/animate.min.css",
+      "img/huanying/2_06.jpg",
+      "lunbo.html",
+      "js/swiper.animate1.0.2.min.js",
+      "js/swiper-3.3.1.min.css",
+      "img/huanying/2_03.jpg",
+      "img/huanying/2_09.jpg",
+      "js/swiper-3.3.1.jquery.min.js",
+      "js/touch.min.js",
+      "js/zepto.js",
+      "js/rem.js",
+      "js/reset.css",
+      "css/animate.min.css",
+      "css/swiper-3.3.1.min.css",
+      "css/reset.css"
+    ],
+    "refer": [
+      "lunbo.html"
+    ]
+  },
+  "logo.html": {
+    "resources": [
+      "list.html",
+      "js/touch.min.js",
+      "js/zepto.js",
+      "js/rem.js",
+      "css/logo.css",
+      "zhuce.html"
+    ],
+    "refer": [
+      "list.html"
+    ]
+  },
+  "list.html": {
+    "resources": [
+      "js/icons/iconfont.woff",
+      "js/download/font_xn1yqmwxvftotj4i/iconfont.css",
+      "js/download/font_xn1yqmwxvftotj4i/iconfont.woff",
+      "js/iscroll.js",
+      "js/icons/iconfont.css",
+      "css/iconfont1.css",
+      "css/common.css",
+      "css/iconfont.css",
+      "js/touch.min.js",
+      "js/zepto.js",
+      "js/rem.js",
+      "css/reset.css",
+      "js/icons/iconfont1.css",
+      "choujiang.html",
+      "cart.html",
+      "xiangqing.html",
+      "mayxiu.html"
+    ],
+    "refer": [
+      "choujiang.html",
+      "cart.html",
+      "xiangqing.html",
+      "mayxiu.html"
+    ]
+  },
+  "mayxiu.html": {
+    "resources": [
+      "img/c_03.gif",
+      "list.html",
+      "cart.html",
+      "choujiang.html"
+    ],
+    "refer": [
+      "list.html",
+      "cart.html",
+      "choujiang.html"
+    ]
+  },
+  "cart.html": {
+    "resources": [
+      "mayxiu.html",
+      "js/icons/iconfont.woff",
+      "js/icons/iconfont1.css",
+      "css/common.css",
+      "js/iscroll.js",
+      "js/touch.min.js",
+      "js/zepto.js",
+      "js/rem.js",
+      "css/reset.css",
+      "list.html",
+      "choujiang.html",
+      "js/download/font_xn1yqmwxvftotj4i/iconfont.css",
+      "js/download/font_xn1yqmwxvftotj4i/iconfont.woff"
+    ],
+    "refer": [
+      "mayxiu.html",
+      "list.html",
+      "choujiang.html"
+    ]
+  },
+  "choujiang.html": {
+    "resources": [
+      "list.html",
+      "css/common.css",
+      "js/iscroll.js",
+      "js/touch.min.js",
+      "js/zepto.js",
+      "js/rem.js",
+      "css/swiper-3.3.1.min.css",
+      "css/reset.css",
+      "js/icons/iconfont.woff",
+      "js/icons/iconfont1.css",
+      "mayxiu.html",
+      "cart.html"
+    ],
+    "refer": [
+      "list.html",
+      "mayxiu.html",
+      "cart.html"
+    ]
+  },
+  "xiangqing.html": {
+    "resources": [
+      "list.html"
+    ],
+    "refer": [
+      "list.html"
+    ]
+  },
+  "zhuce.html": {
+    "resources": [
+      "img/huanying/zc.jpg",
+      "css/zhuce.css",
+      "logo.html"
+    ],
+    "refer": []
+  }
+}
